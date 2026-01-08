@@ -89,13 +89,6 @@ The dataset is publicly available on Roboflow and Kaggle:
 
 ---
 
-## 🎥 YouTube Demo
-**Real-Time Traffic Density Estimation with YOLOv8 in Action**
-
-[![Traffic Density Estimation Demo](https://img.youtube.com/vi/5SxQfWLENh8/0.jpg)](https://youtu.be/5SxQfWLENh8)
-
----
-
 ## 📁 File Descriptions
 - **`images/`**: This directory houses the cover images for the project and the sample image utilized within the notebook.
 - **`models/`**: Contains the best-performing fine-tuned YOLOv8 model in both `.pt` (PyTorch format) and `.onnx` (Open Neural Network Exchange format) for broad compatibility.
@@ -108,11 +101,12 @@ The dataset is publicly available on Roboflow and Kaggle:
 
 ---
 
-## 🚀 Instructions for Local Execution
+## 🤝 Contributors
+- **Prachi Patil** (@pracheyyy)
+  
+  TEAM "INFERA"
 
-### 1️⃣ Initial Setup
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/FarzadNekouee/YOLOv8_Traffic_Density_Estimation.git
+   
+
 
 
